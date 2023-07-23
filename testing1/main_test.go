@@ -29,6 +29,17 @@ func TestSum(t *testing.T) {
 	}
 }
 
+/*
+commands
+  - go test -cover
+    it will shows overall coverage
+  - go test --coverprofile=coverage.out
+    creates coverage.out file
+  - go tool cover --func=coverage.out
+    resume of your code in terms of coverage
+  - go tool cover --html=coverage.out
+    view each line to show you what hasn't been tested yet
+*/
 func TestGetMax(t *testing.T) {
 	// test one by one
 	x := 1
