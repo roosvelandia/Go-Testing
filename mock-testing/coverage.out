@@ -1,0 +1,8 @@
+mode: set
+github.com/roosvelandia/mock-testing/main.go:21.55,25.2 2 0
+github.com/roosvelandia/mock-testing/main.go:27.54,31.2 2 0
+github.com/roosvelandia/mock-testing/main.go:33.76,36.16 3 1
+github.com/roosvelandia/mock-testing/main.go:36.16,38.3 1 0
+github.com/roosvelandia/mock-testing/main.go:40.2,43.16 3 1
+github.com/roosvelandia/mock-testing/main.go:43.16,45.3 1 0
+github.com/roosvelandia/mock-testing/main.go:46.2,47.24 2 1
